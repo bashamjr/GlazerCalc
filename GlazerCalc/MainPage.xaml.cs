@@ -107,5 +107,15 @@ namespace GlazerCalc
                 }
             }
         }
+
+        private void widthTxt_KeyDown(object sender, KeyRoutedEventArgs e)
+        {
+
+        }
+
+        private void widthTxt_KeyUp(object sender, KeyRoutedEventArgs e)
+        {
+
+        }
     }
 }
